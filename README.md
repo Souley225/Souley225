@@ -1,14 +1,16 @@
-# 👋 Salut, moi c’est **Souleymane SALL**
+# **Souleymane SALL**
 
-🎯 **Data Scientist** passionné par la modélisation, le machine learning et la mise en production.  
+**Data Scientist | Machine Learning | MLOps | Cloud**
+
+Je suis Data Scientist, passionné par la modélisation, le machine learning et la mise en production.  
 J’aime aller au bout des projets, du jeu de données brut jusqu’à l’API prête à être utilisée.  
 
-🎓 Diplômé d’un **Master en Statistique et Économétrie Appliquée**, je m’intéresse particulièrement à l’endroit où la statistique rencontre l’ingénierie logicielle.  
-Mon truc, c’est de faire parler les chiffres, sans perdre de vue l’objectif métier derrière.
+🎓 Diplômé d’un **Master en Statistique et Économétrie Appliquée**, je m’intéresse particulièrement à la rencontre entre la **data science** et l’**ingénierie logicielle**.  
+Mon objectif : transformer la donnée en outil de décision fiable et concret.
 
 ---
 
-## 🧰 Outils et environnement
+## **🧰 Outils et environnements**
 
 <div align="center">
 
@@ -36,56 +38,63 @@ Mon truc, c’est de faire parler les chiffres, sans perdre de vue l’objectif 
 
 ---
 
-## ⚙️ Ce que j’aime construire
+## **Ce que j’aime construire**
 
-Je m’intéresse à tout ce qui demande une vraie réflexion entre **modélisation** et **industrialisation**.  
-Construire un modèle, le tester, l’optimiser, puis le rendre accessible à d’autres via une API ou un dashboard.  
-Ce que je recherche, c’est la clarté et l’efficacité, pas la complexité inutile.
+Je m’intéresse à tout ce qui relie la **modélisation** à la **mise en production**.  
+Construire un modèle, le tester, l’optimiser, puis le rendre accessible via une API ou un tableau de bord.  
+Mon objectif : des solutions simples, efficaces et utiles.
 
 ---
 
-## 💡 Mes projets
+## **Projets**
 
-### 📉 [Customer Churn Project](https://github.com/Souley225/Customer_Churn_Project)
+### **[Customer Churn Project](https://github.com/Souley225/Customer_Churn_Project)**  
+**Prédiction du churn client | MLOps | API FastAPI | Docker | CI/CD**
 
 Un projet complet autour de la **prédiction du churn client**.  
-J’y ai construit un pipeline de machine learning réplicable et déployable, avec Hydra pour la configuration, DVC pour le versionnement et MLflow pour le suivi.  
-Les modèles ont été optimisés avec Optuna et déployés via une API **FastAPI**, le tout conteneurisé avec **Docker** et automatisé avec **GitHub Actions**.  
-J’ai ajouté une interface **Streamlit** pour tester les prédictions sans coder.
+J’ai conçu un pipeline complet de machine learning avec Hydra pour la configuration, DVC pour le versionnement, et MLflow pour le suivi des expériences.  
+Les modèles ont été optimisés avec **Optuna**, puis déployés via une **API FastAPI** conteneurisée avec **Docker**, le tout orchestré avec **GitHub Actions** pour la CI/CD.  
+Une interface **Streamlit** permet de tester les prédictions en temps réel.
 
-Ce projet illustre ma capacité à relier la **data science** et l’**ingénierie logicielle** pour créer des solutions prêtes à l’emploi.
-
----
-
-### 🛍️ [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
-
-Un projet de **segmentation RFM** couplé à une **recommandation de produits** grâce à une **analyse d’association (Market Basket Analysis)**.  
-L’objectif : comprendre les comportements clients et repérer les opportunités de cross-sell et d’upsell.
-
-Le pipeline inclut :  
-- Une segmentation RFM basée sur la récence, la fréquence et la valeur d’achat.  
-- Une analyse d’association pour repérer les produits souvent achetés ensemble.  
-- Des visualisations pour interpréter les segments et suggérer des actions marketing concrètes.  
-
-Ce projet relie directement la data science à la **stratégie commerciale** : comprendre les clients pour mieux vendre.
+Ce projet illustre la maîtrise du **cycle complet de la data science**, du prototype jusqu’au déploiement.
 
 ---
 
-## 💼 Expérience professionnelle
+### **[Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)**  
+**Segmentation RFM | Market Basket Analysis | Cross-sell & Upsell | Visualisation**
+
+Un projet qui combine **segmentation RFM** et **recommandation de produits** via une **analyse d’association (Market Basket Analysis)**.  
+L’objectif : comprendre les comportements clients et identifier des opportunités de **cross-sell** et **upsell** pertinentes.  
+
+Ce que j’ai réalisé :  
+- Construction d’une segmentation RFM (Récence, Fréquence, Montant) à partir de données transactionnelles.  
+- Analyse d’association de produits pour repérer les combinaisons d’achats fréquentes.  
+- Visualisations et profils clients pour guider les actions marketing.  
+
+Un projet qui relie la **data science** à la **stratégie commerciale** de façon concrète.
+
+---
+
+## **Expérience professionnelle**
 
 **Consultant Data Scientist – Micropole (Groupe Talan)**  
 *Paris | Mars 2025 – Septembre 2025*  
-- Conception et déploiement d’un pipeline complet de **segmentation client** sur **GCP** (Vertex AI, BigQuery).  
-- Construction d’une base de données client enrichie à partir de tables brutes, pour analyser la **récence**, la **fréquence** et la **valeur** des achats.  
-- Réalisation d’une **analyse d’association produits (Market Basket Analysis)** afin d’identifier des opportunités de **cross-sell** et **upsell** pertinentes.  
-- Production de **rapports et visualisations** pour les équipes marketing, facilitant l’exploitation opérationnelle des résultats.
+- Conception et déploiement d’un pipeline complet de **segmentation client** sur **GCP (Vertex AI, BigQuery)**.  
+- Construction d’une base client enrichie pour analyser la **récence**, la **fréquence** et la **valeur** des achats.  
+- Réalisation d’une **analyse d’association produits (Market Basket Analysis)** pour identifier des opportunités de **cross-sell** et **upsell**.  
+- Production de rapports et **visualisations** destinés aux équipes marketing.
 
+---
 
-**Formation**  
-🎓 Master Économétrie & Statistique Appliquée – Université d’Orléans (2022–2025)  
-🎓 Licence d’Économie – Université de Bourgogne (2019–2022)
+## **Formation**
 
-**Certifications**  
+🎓 **Master Économétrie & Statistique Appliquée** – Université d’Orléans (2022–2025)  
+🎓 **Licence d’Économie** – Université de Bourgogne (2019–2022)
+
+---
+
+## **Certifications**
+
 🏅 SAS Certified Statistical Business Analyst  
 🏅 SAS Base Programming  
 🏅 Python for Data Science  
@@ -93,15 +102,15 @@ Ce projet relie directement la data science à la **stratégie commerciale** : c
 
 ---
 
-## 🌍 Langues
+## **Langues**
 
-🇫🇷 Français (natif)  
-🇬🇧 Anglais (C1 – TOEIC 895)  
-🇪🇸 Espagnol (notions)
+- Français (natif)  
+- Anglais (C1 – TOEIC 895)  
+- Espagnol (notions)
 
 ---
 
-## 📊 Statistiques GitHub
+## **Statistiques GitHub**
 
 <div align="center">
 
@@ -113,16 +122,20 @@ Ce projet relie directement la data science à la **stratégie commerciale** : c
 
 ---
 
-## 🤝 Pour me contacter
+## **Contact**
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souley225)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
 
+</div>
+
 ---
 
-## 🧠 En deux mots
+## **À propos**
 
-Je crois qu’un bon projet data, c’est un peu comme une bonne recette : il faut les bons ingrédients, la bonne méthode et le goût du détail.  
-J’aime comprendre ce qu’il y a derrière les chiffres, apprendre de nouvelles approches et partager ce que j’en tire.  
-Et si la conversation tourne autour de data, d’ingénierie ou même de cuisine, je suis toujours partant.
+Je crois qu’un bon projet data, c’est comme une bonne recette : il faut les bons ingrédients, la bonne méthode et un vrai sens du détail.  
+J’aime comprendre ce qu’il y a derrière les chiffres, apprendre en continu et partager ce que j’en tire.  
+Et si la discussion tourne autour de data, d’ingénierie ou même de cuisine, je suis toujours partant.
