@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est ** Souleymane **
+# 👋 Salut, moi c’est **Souleymane**
 
 Je suis Data Scientist, passionné par la modélisation, le machine learning et la mise en production.  
 J’aime aller au bout des projets, du jeu de données brut jusqu’à l’API prête à être utilisée.  
