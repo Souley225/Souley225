@@ -1,14 +1,14 @@
-# Salut, moi c’est Souleymane SALL
+# 👋 Salut, moi c’est **Souleymane SALL**
 
-Je suis Data Scientist, passionné par tout ce qui touche à la modélisation, au machine learning et à la mise en production.  
+🎯 **Data Scientist** passionné par la modélisation, le machine learning et la mise en production.  
 J’aime aller au bout des projets, du jeu de données brut jusqu’à l’API prête à être utilisée.  
 
-J’ai un Master en Statistique et Économétrie Appliquée, et une vraie curiosité pour la partie “ingénierie” de la data.  
+🎓 Diplômé d’un **Master en Statistique et Économétrie Appliquée**, je m’intéresse particulièrement à l’endroit où la statistique rencontre l’ingénierie logicielle.  
 Mon truc, c’est de faire parler les chiffres, sans perdre de vue l’objectif métier derrière.
 
 ---
 
-### Outils et environnement
+## 🧰 Outils et environnement
 
 <div align="center">
 
@@ -36,70 +36,72 @@ Mon truc, c’est de faire parler les chiffres, sans perdre de vue l’objectif 
 
 ---
 
-### Ce que j’aime construire
+## ⚙️ Ce que j’aime construire
 
-Je m’intéresse à tout ce qui demande une vraie réflexion entre **modélisation** et **industrialisation** :  
-construire un modèle, le tester, l’optimiser, puis le rendre accessible à d’autres via une API ou un dashboard.  
+Je m’intéresse à tout ce qui demande une vraie réflexion entre **modélisation** et **industrialisation**.  
+Construire un modèle, le tester, l’optimiser, puis le rendre accessible à d’autres via une API ou un dashboard.  
 Ce que je recherche, c’est la clarté et l’efficacité, pas la complexité inutile.
 
 ---
 
-### Mes projets
+## 💡 Mes projets
 
-#### [Customer Churn Project](https://github.com/Souley225/Customer_Churn_Project)
+### 📉 [Customer Churn Project](https://github.com/Souley225/Customer_Churn_Project)
 
 Un projet complet autour de la **prédiction du churn client**.  
-J’y ai construit un pipeline de machine learning réplicable et déployable, avec Hydra pour la config, DVC pour le versionnement et MLflow pour le suivi.  
-Les modèles ont été optimisés avec Optuna et déployés via une API FastAPI, le tout conteneurisé avec Docker et géré sous CI/CD avec GitHub Actions.  
-J’ai aussi ajouté une interface Streamlit pour tester les prédictions sans écrire une ligne de code.
+J’y ai construit un pipeline de machine learning réplicable et déployable, avec Hydra pour la configuration, DVC pour le versionnement et MLflow pour le suivi.  
+Les modèles ont été optimisés avec Optuna et déployés via une API **FastAPI**, le tout conteneurisé avec **Docker** et automatisé avec **GitHub Actions**.  
+J’ai ajouté une interface **Streamlit** pour tester les prédictions sans coder.
 
-Ce projet m’a permis de réunir tout ce que j’aime dans ce métier : structure, rigueur et impact concret.
-
----
-
-#### [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
-
-Ce projet combine **segmentation RFM** et **recommandation de produits** à travers une analyse d’association (Market Basket Analysis).  
-L’objectif : mieux comprendre les comportements clients et repérer les opportunités de cross-sell et d’upsell.  
-
-J’ai d’abord réalisé une segmentation RFM (Récence, Fréquence, Montant) pour classer les clients selon leur valeur et leur engagement,  
-puis appliqué une **analyse d’association de produits** pour identifier les combinaisons d’achats fréquentes.  
-
-Concrètement, le projet permet de :  
-- Segmenter les clients selon leur profil d’achat.  
-- Identifier des règles d’association entre produits.  
-- Mettre en évidence des pistes concrètes pour augmenter la rétention et la valeur client.  
-
-Un projet qui relie clairement la **data science** à des **décisions business** tangibles.
+Ce projet illustre ma capacité à relier la **data science** et l’**ingénierie logicielle** pour créer des solutions prêtes à l’emploi.
 
 ---
 
-### Mon parcours
+### 🛍️ [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
+
+Un projet de **segmentation RFM** couplé à une **recommandation de produits** grâce à une **analyse d’association (Market Basket Analysis)**.  
+L’objectif : comprendre les comportements clients et repérer les opportunités de cross-sell et d’upsell.
+
+Le pipeline inclut :  
+- Une segmentation RFM basée sur la récence, la fréquence et la valeur d’achat.  
+- Une analyse d’association pour repérer les produits souvent achetés ensemble.  
+- Des visualisations pour interpréter les segments et suggérer des actions marketing concrètes.  
+
+Ce projet relie directement la data science à la **stratégie commerciale** : comprendre les clients pour mieux vendre.
+
+---
+
+## 💼 Expérience professionnelle
 
 **Consultant Data Scientist – Micropole (Groupe Talan)**  
 *Paris | Mars 2025 – Septembre 2025*  
-- Conception d’un pipeline complet de **segmentation client sur GCP (Vertex AI, BigQuery)**  
-- Analyse RFM, enrichissement des bases de données et études d’association produits  
-- Création de tableaux de bord Power BI pour les équipes marketing  
+- Conception et déploiement d’un pipeline complet de **segmentation client** sur **GCP** (Vertex AI, BigQuery).  
+- Construction d’une base de données client enrichie à partir de tables brutes, pour analyser la **récence**, la **fréquence** et la **valeur** des achats.  
+- Réalisation d’une **analyse d’association produits (Market Basket Analysis)** afin d’identifier des opportunités de **cross-sell** et **upsell** pertinentes.  
+- Production de **rapports et visualisations** pour les équipes marketing, facilitant l’exploitation opérationnelle des résultats.
+
 
 **Formation**  
-Master Économétrie & Statistique Appliquée – Université d’Orléans (2022–2025)  
-Licence d’Économie – Université de Bourgogne (2019–2022)
+🎓 Master Économétrie & Statistique Appliquée – Université d’Orléans (2022–2025)  
+🎓 Licence d’Économie – Université de Bourgogne (2019–2022)
 
 **Certifications**  
-SAS Certified Statistical Business Analyst, SAS Base Programming, Python for Data Science, Dataiku (Core Designer & ML Practitioner)
+🏅 SAS Certified Statistical Business Analyst  
+🏅 SAS Base Programming  
+🏅 Python for Data Science  
+🏅 Dataiku (Core Designer & ML Practitioner)
 
 ---
 
-### Langues
+## 🌍 Langues
 
-Français (natif)  
-Anglais (C1 – TOEIC 895)  
-Espagnol (notions)
+🇫🇷 Français (natif)  
+🇬🇧 Anglais (C1 – TOEIC 895)  
+🇪🇸 Espagnol (notions)
 
 ---
 
-### Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
@@ -111,16 +113,16 @@ Espagnol (notions)
 
 ---
 
-### Pour me contacter
+## 🤝 Pour me contacter
 
-[LinkedIn](https://www.linkedin.com/in/souleymanes-sall)  
-[GitHub](https://github.com/Souley225)  
-Email : [sallsouleymane2207@gmail.com](mailto:sallsouleymane2207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souley225)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
 
 ---
 
-### En deux mots
+## 🧠 En deux mots
 
-Je crois qu’un bon projet data, c’est un peu comme une bonne recette : il faut les bons ingrédients, la bonne méthode et surtout le goût du détail.  
+Je crois qu’un bon projet data, c’est un peu comme une bonne recette : il faut les bons ingrédients, la bonne méthode et le goût du détail.  
 J’aime comprendre ce qu’il y a derrière les chiffres, apprendre de nouvelles approches et partager ce que j’en tire.  
 Et si la conversation tourne autour de data, d’ingénierie ou même de cuisine, je suis toujours partant.
