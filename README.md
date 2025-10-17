@@ -14,6 +14,7 @@ Mon truc, c’est de faire parler les chiffres, sans perdre de vue l’objectif 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -58,10 +59,18 @@ Ce projet m’a permis de réunir tout ce que j’aime dans ce métier : structu
 
 #### [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
 
-Ici, j’ai travaillé sur de la **segmentation client** en mode non supervisé.  
-Le but était d’identifier des profils de clients à partir de comportements réels, puis d’en tirer des insights exploitables.  
-K-Means, DBSCAN, PCA… tout y passe, mais ce qui compte vraiment, c’est la lecture qu’on en fait derrière les chiffres.  
-Les visualisations et les analyses aident à comprendre qui sont les clients, pas seulement à découper des clusters.
+Ce projet combine **segmentation RFM** et **recommandation de produits** à travers une analyse d’association (Market Basket Analysis).  
+L’objectif : mieux comprendre les comportements clients et repérer les opportunités de cross-sell et d’upsell.  
+
+J’ai d’abord réalisé une segmentation RFM (Récence, Fréquence, Montant) pour classer les clients selon leur valeur et leur engagement,  
+puis appliqué une **analyse d’association de produits** pour identifier les combinaisons d’achats fréquentes.  
+
+Concrètement, le projet permet de :  
+- Segmenter les clients selon leur profil d’achat.  
+- Identifier des règles d’association entre produits.  
+- Mettre en évidence des pistes concrètes pour augmenter la rétention et la valeur client.  
+
+Un projet qui relie clairement la **data science** à des **décisions business** tangibles.
 
 ---
 
@@ -69,7 +78,7 @@ Les visualisations et les analyses aident à comprendre qui sont les clients, pa
 
 **Consultant Data Scientist – Micropole (Groupe Talan)**  
 *Paris | Mars 2025 – Septembre 2025*  
-- Conception d’un pipeline de **segmentation client sur GCP (Vertex AI, BigQuery)**  
+- Conception d’un pipeline complet de **segmentation client sur GCP (Vertex AI, BigQuery)**  
 - Analyse RFM, enrichissement des bases de données et études d’association produits  
 - Création de tableaux de bord Power BI pour les équipes marketing  
 
@@ -112,6 +121,6 @@ Email : [sallsouleymane2207@gmail.com](mailto:sallsouleymane2207@gmail.com)
 
 ### En deux mots
 
-Je crois qu’un bon projet data, c’est un peu comme une bonne recette : il faut les bons ingrédients, la bonne méthode et surtout le bon goût du détail.  
+Je crois qu’un bon projet data, c’est un peu comme une bonne recette : il faut les bons ingrédients, la bonne méthode et surtout le goût du détail.  
 J’aime comprendre ce qu’il y a derrière les chiffres, apprendre de nouvelles approches et partager ce que j’en tire.  
 Et si la conversation tourne autour de data, d’ingénierie ou même de cuisine, je suis toujours partant.
