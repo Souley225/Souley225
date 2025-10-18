@@ -23,7 +23,7 @@
 class DataScientist:
     def __init__(self):
         self.name = "Souleymane"
-        self.role = "Data Scientist & MLOps Engineer"
+        self.role = "Data Scientist"
         self.location = "Paris, France 🇫🇷"
         self.education = "Master Économétrie & Statistique Appliquée"
         self.languages = ["Python", "R", "SQL", "SAS"]
@@ -179,6 +179,8 @@ me.say_hi()
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLxtend](https://img.shields.io/badge/MLxtend-FF6F00?style=flat-square&logo=python&logoColor=white)
+
 
 </div>
 
