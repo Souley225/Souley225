@@ -275,9 +275,9 @@ me.say_hi()
 
 </div>
 
-<h2 align="center">💭 Ma philosophie</h2>
+<h2 align="left">💭 Ma philosophie</h2>
 
-<p align="center">
+<p align="left">
   <i>"Un bon projet data, c’est comme une recette réussie : il faut de bons ingrédients, une méthode claire, et surtout, le sens du détail."</i>
 </p>
 
