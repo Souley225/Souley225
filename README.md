@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est **Souleymane**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;MLOps+Enthusiast+%F0%9F%9A%80;Passionn%C3%A9+par+la+Data+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+%F0%9F%A4%96;MLOps+Enthusiast+%F0%9F%9A%80;Passionn%C3%A9+par+la+Data+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 ```python
 class DataScientist:
@@ -45,7 +45,7 @@ me.say_hi()
 
 ## 🛠️ Stack Technique
 
-### 📊 Data Science & ML
+###  Data Science & ML
 
 <div align="center">
 
@@ -56,7 +56,7 @@ me.say_hi()
 
 </div>
 
-### 🤖 Frameworks & Librairies ML
+###  Frameworks & Librairies ML
 
 <div align="center">
 
@@ -69,7 +69,7 @@ me.say_hi()
 
 </div>
 
-### 🔧 MLOps & Déploiement
+###  MLOps & Déploiement
 
 <div align="center">
 
@@ -93,7 +93,7 @@ me.say_hi()
 
 </div>
 
-### 📈 Visualisation & BI
+### Visualisation & BI
 
 <div align="center">
 
@@ -108,7 +108,7 @@ me.say_hi()
 
 ## 💼 Expérience Professionnelle
 
-### 🏢 Consultant Data Scientist | Micropole (Groupe Talan)
+###  Consultant Data Scientist | Micropole (Groupe Talan)
 **📍 Paris | 📅 Mars 2025 – Septembre 2025**
 
 <table>
@@ -136,11 +136,11 @@ me.say_hi()
 
 ---
 
-## 🚀 Projets Phares
+##  Projets Phares
 
 <div align="center">
 
-### 📊 [Customer Churn Prediction](https://github.com/Souley225/Customer_Churn_Project)
+###  [Customer Churn Prediction](https://github.com/Souley225/Customer_Churn_Project)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -190,7 +190,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-#### 📊 Segmentation RFM
+####  Segmentation RFM
 - Analyse **Récence-Fréquence-Montant**
 - Profils clients détaillés
 - Scoring et classification
@@ -211,7 +211,7 @@ me.say_hi()
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
 
@@ -234,7 +234,7 @@ me.say_hi()
 
 ---
 
-## 🎓 Formation & Certifications
+##  Formation & Certifications
 
 <table>
 <tr>
@@ -283,16 +283,16 @@ me.say_hi()
 
 ---
 
-### 🎯 Ma vision  
+###  Ma vision  
 Transformer les données en **décisions concrètes** et en **valeur mesurable**.  
 La donnée n’a de sens que si elle change quelque chose dans la réalité.
 
-### 🔬 Mon approche  
+###  Mon approche  
 Allier **rigueur scientifique** et **pragmatisme d’ingénieur**.  
 J’aime autant explorer les modèles qu’automatiser le déploiement.  
 Du notebook à la prod, chaque étape doit être claire, testable et utile.
 
-### 🚀 Mon objectif  
+###  Mon objectif  
 Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes à agir plus vite et plus juste.  
 Pas juste un modèle qui tourne, mais une solution qui vit.
 
