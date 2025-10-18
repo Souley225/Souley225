@@ -275,19 +275,26 @@ me.say_hi()
 
 </div>
 
+<h2 align="center">💭 Ma philosophie</h2>
+
+<p align="center">
+  <i>"Un bon projet data, c’est comme une recette réussie : il faut de bons ingrédients, une méthode claire, et surtout, le sens du détail."</i>
+</p>
+
 ---
 
-## 💭 Philosophy
+### 🎯 Ma vision  
+Transformer les données en **décisions concrètes** et en **valeur mesurable**.  
+La donnée n’a de sens que si elle change quelque chose dans la réalité.
 
-<div align="center">
+### 🔬 Mon approche  
+Allier **rigueur scientifique** et **pragmatisme d’ingénieur**.  
+J’aime autant explorer les modèles qu’automatiser le déploiement.  
+Du notebook à la prod, chaque étape doit être claire, testable et utile.
 
-> *"Un bon projet data, c'est comme une bonne recette : il faut les bons ingrédients, la bonne méthode et un vrai sens du détail."*
-
-**🎯 Ma vision :** Transformer les données en insights actionnables  
-**🔬 Mon approche :** Rigueur scientifique + Engineering pragmatique  
-**🚀 Mon objectif :** Créer des solutions ML qui créent de la valeur business
-
-</div>
+### 🚀 Mon objectif  
+Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes à agir plus vite et plus juste.  
+Pas juste un modèle qui tourne, mais une solution qui vit.
 
 ---
 
