@@ -29,7 +29,7 @@ class DataScientist:
         self.languages = ["Python", "R", "SQL", "SAS"]
         
     def say_hi(self):
-        print("Merci de visiter mon profil ! Explorons la data ensemble 🚀")
+        print("Merci de visiter mon profil ! Explorons la data ensemble ")
 
 me = DataScientist()
 me.say_hi()
