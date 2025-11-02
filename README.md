@@ -40,7 +40,6 @@ me.say_hi()
 💡 **Ma mission** : Construire des pipelines ML robustes, du prototype jusqu'au déploiement en production, en utilisant les meilleures pratiques MLOps.
 
 🎯 **Mon approche** : Rigueur statistique + Engineering de qualité = Solutions fiables et scalables
-
 ---
 
 ## 🛠️ Stack Technique
