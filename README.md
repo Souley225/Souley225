@@ -114,7 +114,7 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-#### 🎯 Réalisations clés
+####  Réalisations clés
 - ✅ Conception d'un pipeline ML complet sur **GCP**
 - ✅ Déploiement sur **Vertex AI** et **BigQuery**
 - ✅ **Segmentation RFM** de la base clients
