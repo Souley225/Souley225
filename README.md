@@ -206,7 +206,7 @@ me.say_hi()
 </tr>
 </table>
 
-**💡 Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
+** Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
 
 ---
 
@@ -241,7 +241,7 @@ me.say_hi()
 
 ### 🎓 Formation Académique
 
-- **Master** Économétrie & Statistique Appliquée  
+- [**Master** Économétrie & Statistique Appliquée ](https://www.master-esa.fr/)
   📍 Université d'Orléans (2022–2025)
   
 - **Licence** Économie  
