@@ -206,7 +206,7 @@ me.say_hi()
 </tr>
 </table>
 
-** Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
+** Impact business : ** Stratégies marketing ciblées basées sur les comportements d'achat réels
 
 ---
 
