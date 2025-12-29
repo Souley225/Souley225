@@ -241,7 +241,7 @@ me.say_hi()
 
 ### 🎓 Formation Académique
 
-- [**Master** Économétrie & Statistique Appliquée ](https://www.master-esa.fr/)
+- [**Master** Économétrie & Statistique Appliquée ](https://www.master-esa.fr)
   📍 Université d'Orléans (2022–2025)
   
 - **Licence** Économie  
