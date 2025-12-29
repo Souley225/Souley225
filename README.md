@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Salut, moi c'est **Souleymane**
+# Salut, moi c'est **Souleymane**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+%F0%9F%A4%96;MLOps+Enthusiast+%F0%9F%9A%80;Passionn%C3%A9+par+la+Data+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning;MLOps+Enthusiast;Passionn%C3%A9+par+la+Data" alt="Typing SVG" />
 
 </div>
 
@@ -17,34 +17,35 @@
 
 ---
 
-##  À propos de moi
+## À propos de moi
 
 ```python
 class DataScientist:
     def __init__(self):
         self.name = "Souleymane"
         self.role = "Data Scientist"
-        self.location = "Paris, France 🇫🇷"
+        self.location = "Paris, France"
         self.education = "Master Économétrie & Statistique Appliquée"
         self.languages = ["Python", "R", "SQL", "SAS"]
         
     def say_hi(self):
-        print("Merci de visiter mon profil ! Explorons la data ensemble ")
+        print("Merci de visiter mon profil ! Explorons la data ensemble")
 
 me = DataScientist()
 me.say_hi()
 ```
 
-🎓 **Diplômé d'un Master en Statistique et Économétrie Appliquée**, je suis passionné par la transformation de données brutes en solutions concrètes et actionnables.
+**Diplômé d'un Master en Statistique et Économétrie Appliquée**, je suis passionné par la transformation de données brutes en solutions concrètes et actionnables.
 
-💡 **Ma mission** : Construire des pipelines ML robustes, du prototype jusqu'au déploiement en production, en utilisant les meilleures pratiques MLOps.
+**Ma mission** : Construire des pipelines ML robustes, du prototype jusqu'au déploiement en production, en utilisant les meilleures pratiques MLOps.
 
-🎯 **Mon approche** : Rigueur statistique + Engineering de qualité = Solutions fiables et scalables
+**Mon approche** : Rigueur statistique + Engineering de qualité = Solutions fiables et scalables
+
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
-###  Data Science & ML
+### Data Science & ML
 
 <div align="center">
 
@@ -55,7 +56,7 @@ me.say_hi()
 
 </div>
 
-###  Frameworks & Librairies ML
+### Frameworks & Librairies ML
 
 <div align="center">
 
@@ -68,7 +69,7 @@ me.say_hi()
 
 </div>
 
-###  MLOps & Déploiement
+### MLOps & Déploiement
 
 <div align="center">
 
@@ -81,7 +82,7 @@ me.say_hi()
 
 </div>
 
-### ☁️ Cloud & Data Platforms
+### Cloud & Data Platforms
 
 <div align="center">
 
@@ -105,25 +106,27 @@ me.say_hi()
 
 ---
 
-## 💼 Expérience Professionnelle
+## Expérience Professionnelle
 
-###  Consultant Data Scientist | Micropole (Groupe Talan)
-**📍 Paris | 📅 Mars 2025 – Septembre 2025**
+### Consultant Data Scientist | Micropole (Groupe Talan)
+**Paris | Mars 2025 – Septembre 2025**
 
 <table>
 <tr>
 <td width="50%">
 
-####  Réalisations clés
-- ✅ Conception d'un pipeline ML complet sur **GCP**
-- ✅ Déploiement sur **Vertex AI** et **BigQuery**
-- ✅ **Segmentation RFM** de la base clients
-- ✅ **Market Basket Analysis** pour cross-sell/upsell
+#### Réalisations clés
+
+- Conception d'un pipeline ML complet sur **GCP**
+- Déploiement sur **Vertex AI** et **BigQuery**
+- **Segmentation RFM** de la base clients
+- **Market Basket Analysis** pour cross-sell/upsell
 
 </td>
 <td width="50%">
 
-#### 🛠️ Technologies utilisées
+#### Technologies utilisées
+
 - **Cloud**: GCP, Vertex AI, BigQuery
 - **ML**: Scikit-learn, XGBoost
 - **Viz**: Power BI, Python
@@ -135,11 +138,11 @@ me.say_hi()
 
 ---
 
-##  Projets Phares
+## Projets Phares
 
 <div align="center">
 
-###  [Customer Churn Prediction](https://github.com/Souley225/Customer_Churn_Project)
+### [Customer Churn Prediction](https://github.com/Souley225/Customer_Churn_Project)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -152,34 +155,33 @@ me.say_hi()
 **Pipeline MLOps complet pour la prédiction du churn client**
 
 ```
-📦 Architecture du projet
-├── 🔧 Hydra           → Configuration management
-├── 📊 DVC             → Data versioning
-├── 📈 MLflow          → Experiment tracking
-├── 🎯 Optuna          → Hyperparameter tuning
-├── 🚀 FastAPI         → Production API
-├── 🎨 Streamlit       → Interactive UI
-└── 🐳 Docker Compose  → Containerization
+Architecture du projet
+├── Hydra           → Configuration management
+├── DVC             → Data versioning
+├── MLflow          → Experiment tracking
+├── Optuna          → Hyperparameter tuning
+├── FastAPI         → Production API
+├── Streamlit       → Interactive UI
+└── Docker Compose  → Containerization
 ```
 
-**🌟 Points forts :**
-- ✨ Pipeline reproductible end-to-end
-- 🔄 CI/CD avec GitHub Actions
-- 📊 Suivi complet des expériences
-- 🎯 Optimisation automatique des hyperparamètres
-- 🚀 API de production prête à l'emploi
+**Points forts :**
+- Pipeline reproductible end-to-end
+- CI/CD avec GitHub Actions
+- Suivi complet des expériences
+- Optimisation automatique des hyperparamètres
+- API de production prête à l'emploi
 
 ---
 
 <div align="center">
 
-### 🛒 [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
+### [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![MLxtend](https://img.shields.io/badge/MLxtend-FF6F00?style=flat-square&logo=python&logoColor=white)
-
 
 </div>
 
@@ -189,7 +191,8 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-####  Segmentation RFM
+#### Segmentation RFM
+
 - Analyse **Récence-Fréquence-Montant**
 - Profils clients détaillés
 - Scoring et classification
@@ -197,7 +200,8 @@ me.say_hi()
 </td>
 <td width="50%">
 
-#### 🔍 Market Basket Analysis
+#### Market Basket Analysis
+
 - Analyse d'associations de produits
 - Opportunités de **cross-sell**
 - Recommandations **upsell**
@@ -206,11 +210,11 @@ me.say_hi()
 </tr>
 </table>
 
-** Impact business : ** Stratégies marketing ciblées basées sur les comportements d'achat réels
+**Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
 
 ---
 
-##  Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -233,30 +237,30 @@ me.say_hi()
 
 ---
 
-##  Formation & Certifications
+## Formation & Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Formation Académique
+### Formation Académique
 
-- [**Master** Économétrie & Statistique Appliquée ](https://www.master-esa.fr)
-  📍 Université d'Orléans (2022–2025)
+- [**Master** Économétrie & Statistique Appliquée](https://www.master-esa.fr)  
+  Université d'Orléans (2022–2025)
   
-- **Licence** Économie  
-  📍 Université de Bourgogne (2019–2022)
+- [**Licence** Économie](https://www.u-bourgogne.fr/)  
+  Université de Bourgogne (2019–2022)
 
 </td>
 <td width="50%">
 
-### 🏅 Certifications
+### Certifications
 
-- ✅ **SAS Certified Statistical Business Analyst**
-- ✅ **SAS Base Programming**
-- ✅ **Python for Data Science**
-- ✅ **Dataiku Core Designer**
-- ✅ **Dataiku ML Practitioner**
+- **SAS Certified Statistical Business Analyst**
+- **SAS Base Programming**
+- **Python for Data Science**
+- **Dataiku Core Designer**
+- **Dataiku ML Practitioner**
 
 </td>
 </tr>
@@ -264,7 +268,7 @@ me.say_hi()
 
 ---
 
-## 🌍 Langues
+## Langues
 
 <div align="center">
 
@@ -274,35 +278,35 @@ me.say_hi()
 
 </div>
 
-<h2 align="left">💭 Ma philosophie</h2>
+<h2 align="left">Ma philosophie</h2>
 
 <p align="left">
-  <i>"Un bon projet data, c’est comme une recette réussie : il faut de bons ingrédients, une méthode claire, et surtout, le sens du détail."</i>
+  <i>"Un bon projet data, c'est comme une recette réussie : il faut de bons ingrédients, une méthode claire, et surtout, le sens du détail."</i>
 </p>
 
 ---
 
-###  Ma vision  
+### Ma vision  
 Transformer les données en **décisions concrètes** et en **valeur mesurable**.  
-La donnée n’a de sens que si elle change quelque chose dans la réalité.
+La donnée n'a de sens que si elle change quelque chose dans la réalité.
 
-###  Mon approche  
-Allier **rigueur scientifique** et **pragmatisme d’ingénieur**.  
-J’aime autant explorer les modèles qu’automatiser le déploiement.  
+### Mon approche  
+Allier **rigueur scientifique** et **pragmatisme d'ingénieur**.  
+J'aime autant explorer les modèles qu'automatiser le déploiement.  
 Du notebook à la prod, chaque étape doit être claire, testable et utile.
 
-###  Mon objectif  
+### Mon objectif  
 Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes à agir plus vite et plus juste.  
 Pas juste un modèle qui tourne, mais une solution qui vit.
 
 ---
 
-## 📫 Restons en contact !
+## Restons en contact !
 
 <div align="center">
 
 Je suis toujours ouvert aux discussions autour de la **data science**, du **machine learning**, et des **bonnes pratiques MLOps** !  
-N'hésitez pas à me contacter pour échanger sur vos projets ou simplement discuter tech ☕
+N'hésitez pas à me contacter pour échanger sur vos projets ou simplement discuter tech
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
 [![Email](https://img.shields.io/badge/Email-Écrivez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
@@ -313,7 +317,7 @@ N'hésitez pas à me contacter pour échanger sur vos projets ou simplement disc
 
 <div align="center">
 
-### 🌟 Merci de votre visite !
+### Merci de votre visite !
 
 ![Visitor Count](https://profile-counter.glitch.me/Souley225/count.svg)
 
