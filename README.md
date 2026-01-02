@@ -276,8 +276,6 @@ Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes �
 Pas juste un modèle qui tourne, mais une solution qui vit.
 
 ---
----
-
 ## Statistiques GitHub
 
 <div align="center">
