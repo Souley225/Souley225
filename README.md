@@ -212,30 +212,6 @@ Architecture du projet
 
 **Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
 
----
-
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souley225&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souley225&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
 
 ## Formation & Certifications
 
@@ -298,6 +274,30 @@ Du notebook à la prod, chaque étape doit être claire, testable et utile.
 ### Mon objectif  
 Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes à agir plus vite et plus juste.  
 Pas juste un modèle qui tourne, mais une solution qui vit.
+
+---
+---
+
+## Statistiques GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souley225&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souley225&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
