@@ -70,12 +70,12 @@ Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expér
 **Mars 2025 – Septembre 2025 | Paris, France**
 
 **Réalisations clés :**
-- Conception et déploiement d'un pipeline ML complet sur Google Cloud Platform intégrant Vertex AI et BigQuery
+- Conception et déploiement d'un pipeline ML complet sur ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) intégrant ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white) et ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 - Mise en place d'une analyse de segmentation RFM pour le profilage et le ciblage de la base clients
 - Développement d'une Market Basket Analysis pour l'identification d'opportunités de cross-sell et upsell
-- Création de tableaux de bord automatisés dans Power BI pour le reporting aux parties prenantes
+- Création de tableaux de bord automatisés dans ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) pour le reporting aux parties prenantes
 
-**Technologies :** GCP, Vertex AI, BigQuery, Scikit-learn, XGBoost, Power BI, Docker, Git
+**Technologies :** ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -87,14 +87,14 @@ Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expér
 Pipeline MLOps prêt pour la production pour la prédiction du churn client avec automatisation complète et monitoring.
 
 **Implémentation technique :**
-- Gestion de configuration avec Hydra pour des expériences reproductibles
-- Versioning et suivi des données avec DVC
-- Suivi des expériences et registre de modèles avec MLflow
-- Optimisation automatisée des hyperparamètres avec Optuna
-- Déploiement d'API REST avec FastAPI
-- Interface interactive construite avec Streamlit
-- Déploiement conteneurisé avec Docker Compose
-- Automatisation CI/CD via GitHub Actions
+- Gestion de configuration avec ![Hydra](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white) pour des expériences reproductibles
+- Versioning et suivi des données avec ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+- Suivi des expériences et registre de modèles avec ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+- Optimisation automatisée des hyperparamètres avec ![Optuna](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
+- Déploiement d'API REST avec ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+- Interface interactive construite avec ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- Déploiement conteneurisé avec ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Compose
+- Automatisation CI/CD via ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Impact business :** Permet des stratégies de rétention client proactives avec scoring du risque de churn en temps réel.
 
@@ -143,11 +143,11 @@ Université d'Orléans | 2022 – 2025
 Université de Bourgogne | 2019 – 2022
 
 ### Certifications Professionnelles
-- SAS Certified Statistical Business Analyst
-- SAS Base Programming Specialist
-- Python for Data Science
-- Dataiku Core Designer
-- Dataiku ML Practitioner
+- ![SAS](https://img.shields.io/badge/SAS-1E478E?style=flat&logo=sas&logoColor=white) Certified Statistical Business Analyst
+- ![SAS](https://img.shields.io/badge/SAS-1E478E?style=flat&logo=sas&logoColor=white) Base Programming Specialist
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) for Data Science
+- ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white) Core Designer
+- ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white) ML Practitioner
 
 ---
 
