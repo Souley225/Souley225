@@ -24,7 +24,18 @@ vie des modèles de Machine Learning, du feature engineering au **déploiement**
 statistique et prédictive. Première expérience du déploiement via API, capable de passer du prototype à la production.
 Forte appétence pour l’intégration des pratiques **MLOps**.
 
-**Compétences clés :** Modélisation prédictive | Scoring | MLOps | Déploiement Cloud | Analyse statistique
+<div align="center">
+
+### Compétences clés
+
+![Modélisation prédictive](https://img.shields.io/badge/Modélisation_prédictive-0066CC?style=for-the-badge)
+![Scoring](https://img.shields.io/badge/Scoring-00A86B?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge)
+![Déploiement Cloud](https://img.shields.io/badge/Déploiement_Cloud-4285F4?style=for-the-badge)
+![Analyse statistique](https://img.shields.io/badge/Analyse_statistique-8B5CF6?style=for-the-badge)
+
+</div>
+
 
 ---
 
