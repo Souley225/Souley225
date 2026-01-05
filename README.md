@@ -199,6 +199,11 @@ Construire des solutions ML fiables nécessite de combiner rigueur statistique e
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souley225&theme=default&hide_border=true)
 
 </div>
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souley225&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
