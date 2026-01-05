@@ -173,8 +173,18 @@ Construire des solutions ML fiables nécessite de combiner rigueur statistique e
 
 ## Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=default&hide_border=true&langs_count=8)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=default&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souley225&theme=default&hide_border=true)
+
+</div>
 
 ---
 
@@ -187,4 +197,8 @@ Ouvert aux discussions autour de la data science, du machine learning et des bon
 
 ---
 
-![Profile Views](https://profile-counter.glitch.me/Souley225/count.svg)
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/Souley225/count.svg)
+
+</div>
