@@ -87,14 +87,14 @@ Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expér
 Pipeline MLOps prêt pour la production pour la prédiction du churn client avec automatisation complète et monitoring.
 
 **Implémentation technique :**
-- Gestion de configuration avec Hydra![](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white) pour des expériences reproductibles
-- Versioning et suivi des données avec DVC![](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
-- Suivi des expériences et registre de modèles avec ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-- Optimisation automatisée des hyperparamètres avec ![Optuna](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
-- Déploiement d'API REST avec ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- Interface interactive construite avec ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-- Déploiement conteneurisé avec ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Compose
-- Automatisation CI/CD via ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+- Gestion de configuration avec Hydra pour des expériences reproductibles
+- Versioning et suivi des données avec DVC ![](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+- Suivi des expériences et registre de modèles avec MLflow ![](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+- Optimisation automatisée des hyperparamètres avec Optuna  ![](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
+- Déploiement d'API REST avec FastAPI  ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+- Interface interactive construite avec Streamlit  ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- Déploiement conteneurisé avec Docker  ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Compose
+- Automatisation CI/CD via GitHub Actions  ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Impact business :** Permet des stratégies de rétention client proactives avec scoring du risque de churn en temps réel.
 
