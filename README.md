@@ -1,27 +1,33 @@
-# Souleymane Sall
+<div align="center">
 
-**Data Scientist | Machine Learning Engineer | MLOps Specialist**
+# Salut, moi c'est **Souleymane**
 
-Paris, France
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning;MLOps+Enthusiast;Passionn%C3%A9+par+la+Data" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sallsouleymane66)
 
----
-
-## Professional Summary
-
-Master's graduate in Econometrics and Applied Statistics with hands-on experience building end-to-end machine learning pipelines. Specialized in transforming raw data into production-ready ML solutions using modern MLOps practices. Strong foundation in statistical rigor combined with software engineering best practices.
-
-**Core Competencies:** Predictive Modeling | Customer Analytics | MLOps Automation | Cloud Deployment | Statistical Analysis
+</div>
 
 ---
 
-## Technical Stack
+## Présentation
 
-### Languages & Core Tools
+Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expérience concrète dans la construction de pipelines machine learning de bout en bout. Spécialisé dans la transformation de données brutes en solutions ML prêtes pour la production en utilisant les pratiques MLOps modernes. Forte base en rigueur statistique combinée aux meilleures pratiques d'ingénierie logicielle.
+
+**Compétences clés :** Modélisation prédictive | Analyse client | Automatisation MLOps | Déploiement Cloud | Analyse statistique
+
+---
+
+## Stack Technique
+
+### Langages & Outils
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -44,13 +50,13 @@ Master's graduate in Econometrics and Applied Statistics with hands-on experienc
 ![Optuna](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white)
 
-### Cloud & Platforms
+### Cloud & Plateformes
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white)
 
-### Visualization & BI
+### Visualisation & BI
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
@@ -58,41 +64,41 @@ Master's graduate in Econometrics and Applied Statistics with hands-on experienc
 
 ---
 
-## Professional Experience
+## Expérience Professionnelle
 
-### Data Science Consultant | Micropole (Talan Group)
-**March 2025 – September 2025 | Paris, France**
+### Consultant Data Scientist | Micropole (Groupe Talan)
+**Mars 2025 – Septembre 2025 | Paris, France**
 
-**Key Achievements:**
-- Designed and deployed complete ML pipeline on Google Cloud Platform integrating Vertex AI and BigQuery
-- Implemented RFM segmentation analysis for customer base profiling and targeting
-- Developed Market Basket Analysis for cross-sell and upsell opportunity identification
-- Created automated dashboards in Power BI for business stakeholder reporting
+**Réalisations clés :**
+- Conception et déploiement d'un pipeline ML complet sur Google Cloud Platform intégrant Vertex AI et BigQuery
+- Mise en place d'une analyse de segmentation RFM pour le profilage et le ciblage de la base clients
+- Développement d'une Market Basket Analysis pour l'identification d'opportunités de cross-sell et upsell
+- Création de tableaux de bord automatisés dans Power BI pour le reporting aux parties prenantes
 
-**Technologies:** GCP, Vertex AI, BigQuery, Scikit-learn, XGBoost, Power BI, Docker, Git
+**Technologies :** GCP, Vertex AI, BigQuery, Scikit-learn, XGBoost, Power BI, Docker, Git
 
 ---
 
-## Featured Projects
+## Projets Phares
 
-### Customer Churn Prediction Pipeline
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_Churn_Project)
+### Pipeline de Prédiction du Churn Client
+[![GitHub](https://img.shields.io/badge/Voir_le_code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_Churn_Project)
 
-Production-ready MLOps pipeline for customer churn prediction with complete automation and monitoring.
+Pipeline MLOps prêt pour la production pour la prédiction du churn client avec automatisation complète et monitoring.
 
-**Technical Implementation:**
-- Configuration management with Hydra for reproducible experiments
-- Data versioning and tracking using DVC
-- Experiment tracking and model registry with MLflow
-- Automated hyperparameter optimization using Optuna
-- REST API deployment with FastAPI
-- Interactive UI built with Streamlit
-- Containerized deployment using Docker Compose
-- CI/CD automation via GitHub Actions
+**Implémentation technique :**
+- Gestion de configuration avec Hydra pour des expériences reproductibles
+- Versioning et suivi des données avec DVC
+- Suivi des expériences et registre de modèles avec MLflow
+- Optimisation automatisée des hyperparamètres avec Optuna
+- Déploiement d'API REST avec FastAPI
+- Interface interactive construite avec Streamlit
+- Déploiement conteneurisé avec Docker Compose
+- Automatisation CI/CD via GitHub Actions
 
-**Business Impact:** Enables proactive customer retention strategies with real-time churn risk scoring.
+**Impact business :** Permet des stratégies de rétention client proactives avec scoring du risque de churn en temps réel.
 
-**Tech Stack:** 
+**Technologies :** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -101,42 +107,42 @@ Production-ready MLOps pipeline for customer churn prediction with complete auto
 
 ---
 
-### Customer Segmentation & Market Basket Analysis
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_segmentation_project)
+### Segmentation Client & Market Basket Analysis
+[![GitHub](https://img.shields.io/badge/Voir_le_code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_segmentation_project)
 
-Advanced customer analytics combining RFM segmentation with association rule mining for marketing strategy optimization.
+Analyse client avancée combinant segmentation RFM et analyse d'association pour l'optimisation de stratégies marketing.
 
-**Analytical Components:**
+**Composantes analytiques :**
 
-**RFM Segmentation**
-- Recency, Frequency, Monetary analysis for customer profiling
-- Multi-dimensional scoring system for segment classification
-- Behavioral pattern identification across customer lifecycle
+**Segmentation RFM**
+- Analyse Récence, Fréquence, Montant pour le profilage client
+- Système de scoring multidimensionnel pour la classification des segments
+- Identification des patterns comportementaux tout au long du cycle de vie client
 
 **Market Basket Analysis**
-- Product association discovery using Apriori algorithm
-- Cross-sell opportunity identification through association rules
-- Upsell strategy development based on purchase patterns
+- Découverte d'associations de produits via l'algorithme Apriori
+- Identification d'opportunités de cross-sell par règles d'association
+- Développement de stratégies d'upsell basées sur les patterns d'achat
 
-**Business Impact:** Data-driven marketing personalization resulting in targeted campaign strategies based on actual customer behavior.
+**Impact business :** Personnalisation marketing data-driven résultant en stratégies de campagne ciblées basées sur les comportements clients réels.
 
-**Tech Stack:** 
+**Technologies :** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-## Education & Certifications
+## Formation & Certifications
 
-### Education
-**Master's Degree in Econometrics & Applied Statistics**  
-University of Orléans | 2022 – 2025
+### Formation Académique
+**Master en Économétrie & Statistique Appliquée**  
+Université d'Orléans | 2022 – 2025
 
-**Bachelor's Degree in Economics**  
-University of Burgundy | 2019 – 2022
+**Licence en Économie**  
+Université de Bourgogne | 2019 – 2022
 
-### Professional Certifications
+### Certifications Professionnelles
 - SAS Certified Statistical Business Analyst
 - SAS Base Programming Specialist
 - Python for Data Science
@@ -145,27 +151,27 @@ University of Burgundy | 2019 – 2022
 
 ---
 
-## Languages
+## Langues
 
-**French:** Native  
-**English:** Professional Working Proficiency (TOEIC 895 - C1)  
-**Spanish:** Basic Knowledge
-
----
-
-## Professional Approach
-
-Building reliable ML solutions requires combining statistical rigor with engineering discipline. My focus is on creating production-ready pipelines that deliver measurable business value, from initial exploration through automated deployment. Every component should be tested, reproducible, and maintainable.
-
-**Key Principles:**
-- Transform data into actionable business insights
-- Balance scientific methodology with engineering pragmatism
-- Design solutions that are reliable, scalable, and impactful
-- Ensure end-to-end pipeline clarity and testability
+**Français :** Langue maternelle  
+**Anglais :** Professionnel (TOEIC 895 - C1)  
+**Espagnol :** Notions
 
 ---
 
-## GitHub Statistics
+## Approche Professionnelle
+
+Construire des solutions ML fiables nécessite de combiner rigueur statistique et discipline d'ingénierie. Mon focus est de créer des pipelines prêts pour la production qui délivrent une valeur business mesurable, de l'exploration initiale au déploiement automatisé. Chaque composant doit être testé, reproductible et maintenable.
+
+**Principes clés :**
+- Transformer les données en insights business actionnables
+- Équilibrer méthodologie scientifique et pragmatisme d'ingénieur
+- Concevoir des solutions fiables, scalables et impactantes
+- Garantir la clarté et la testabilité du pipeline de bout en bout
+
+---
+
+## Statistiques GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=default&hide_border=true&langs_count=8)
@@ -174,10 +180,10 @@ Building reliable ML solutions requires combining statistical rigor with enginee
 
 ## Contact
 
-Open to discussing data science, machine learning, and MLOps best practices.
+Ouvert aux discussions autour de la data science, du machine learning et des bonnes pratiques MLOps.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Me_contacter_sur_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
+[![Email](https://img.shields.io/badge/Envoyer_un_email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
 
 ---
 
