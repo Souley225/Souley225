@@ -70,10 +70,10 @@ Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expér
 **Mars 2025 – Septembre 2025 | Paris, France**
 
 **Réalisations clés :**
-- Conception et déploiement d'un pipeline ML complet sur ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) intégrant ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white) et ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+- Conception et déploiement d'un pipeline ML complet sur Google Cloud et BigQuery
 - Mise en place d'une analyse de segmentation RFM pour le profilage et le ciblage de la base clients
 - Développement d'une Market Basket Analysis pour l'identification d'opportunités de cross-sell et upsell
-- Création de tableaux de bord automatisés dans ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) pour le reporting aux parties prenantes
+- Création de tableaux de bord pour les equipes marketing.
 
 **Technologies :** ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -87,8 +87,8 @@ Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expér
 Pipeline MLOps prêt pour la production pour la prédiction du churn client avec automatisation complète et monitoring.
 
 **Implémentation technique :**
-- Gestion de configuration avec ![Hydra](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white) pour des expériences reproductibles
-- Versioning et suivi des données avec ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+- Gestion de configuration avec Hydra![](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white) pour des expériences reproductibles
+- Versioning et suivi des données avec DVC![](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
 - Suivi des expériences et registre de modèles avec ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 - Optimisation automatisée des hyperparamètres avec ![Optuna](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
 - Déploiement d'API REST avec ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
