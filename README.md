@@ -1,324 +1,184 @@
-<div align="center">
+# Souleymane Sall
 
-# Salut, moi c'est **Souleymane**
+**Data Scientist | Machine Learning Engineer | MLOps Specialist**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning;MLOps+Enthusiast;Passionn%C3%A9+par+la+Data" alt="Typing SVG" />
+Paris, France
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souley225)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sallsouleymane66)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sallsouleymane66)
 
 ---
 
-## À propos de moi
+## Professional Summary
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Souleymane"
-        self.role = "Data Scientist"
-        self.location = "Paris, France"
-        self.education = "Master Économétrie & Statistique Appliquée"
-        self.languages = ["Python", "R", "SQL", "SAS"]
-        
-    def say_hi(self):
-        print("Merci de visiter mon profil ! Explorons la data ensemble")
+Master's graduate in Econometrics and Applied Statistics with hands-on experience building end-to-end machine learning pipelines. Specialized in transforming raw data into production-ready ML solutions using modern MLOps practices. Strong foundation in statistical rigor combined with software engineering best practices.
 
-me = DataScientist()
-me.say_hi()
-```
-
-**Diplômé d'un Master en Statistique et Économétrie Appliquée**, je suis passionné par la transformation de données brutes en solutions concrètes et actionnables.
-
-**Ma mission** : Construire des pipelines ML robustes, du prototype jusqu'au déploiement en production, en utilisant les meilleures pratiques MLOps.
-
-**Mon approche** : Rigueur statistique + Engineering de qualité = Solutions fiables et scalables
+**Core Competencies:** Predictive Modeling | Customer Analytics | MLOps Automation | Cloud Deployment | Statistical Analysis
 
 ---
 
-## Stack Technique
+## Technical Stack
 
-### Data Science & ML
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E478E?style=flat&logo=sas&logoColor=white)
 
-<div align="center">
+### Machine Learning & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2C3E50?style=flat&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+### MLOps & Production
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-4051B5?style=flat&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-89B8CD?style=flat&logoColor=white)
 
-</div>
+### Cloud & Platforms
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat&logoColor=white)
 
-### Frameworks & Librairies ML
-
-<div align="center">
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-1C1C1C?style=for-the-badge&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-
-</div>
-
-### MLOps & Déploiement
-
-<div align="center">
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-0080FF?style=for-the-badge&logoColor=white)
-
-</div>
-
-### Cloud & Data Platforms
-
-<div align="center">
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-00C7B7?style=for-the-badge&logo=dataiku&logoColor=white)
-
-</div>
-
-### Visualisation & BI
-
-<div align="center">
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+### Visualization & BI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
 
 ---
 
-## Expérience Professionnelle
+## Professional Experience
 
-### Consultant Data Scientist | Micropole (Groupe Talan)
-**Paris | Mars 2025 – Septembre 2025**
+### Data Science Consultant | Micropole (Talan Group)
+**March 2025 – September 2025 | Paris, France**
 
-<table>
-<tr>
-<td width="50%">
+**Key Achievements:**
+- Designed and deployed complete ML pipeline on Google Cloud Platform integrating Vertex AI and BigQuery
+- Implemented RFM segmentation analysis for customer base profiling and targeting
+- Developed Market Basket Analysis for cross-sell and upsell opportunity identification
+- Created automated dashboards in Power BI for business stakeholder reporting
 
-#### Réalisations clés
-
-- Conception d'un pipeline ML complet sur **GCP**
-- Déploiement sur **Vertex AI** et **BigQuery**
-- **Segmentation RFM** de la base clients
-- **Market Basket Analysis** pour cross-sell/upsell
-
-</td>
-<td width="50%">
-
-#### Technologies utilisées
-
-- **Cloud**: GCP, Vertex AI, BigQuery
-- **ML**: Scikit-learn, XGBoost
-- **Viz**: Power BI, Python
-- **Ops**: Docker, Git, CI/CD
-
-</td>
-</tr>
-</table>
+**Technologies:** GCP, Vertex AI, BigQuery, Scikit-learn, XGBoost, Power BI, Docker, Git
 
 ---
 
-## Projets Phares
+## Featured Projects
 
-<div align="center">
+### Customer Churn Prediction Pipeline
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_Churn_Project)
 
-### [Customer Churn Prediction](https://github.com/Souley225/Customer_Churn_Project)
+Production-ready MLOps pipeline for customer churn prediction with complete automation and monitoring.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Technical Implementation:**
+- Configuration management with Hydra for reproducible experiments
+- Data versioning and tracking using DVC
+- Experiment tracking and model registry with MLflow
+- Automated hyperparameter optimization using Optuna
+- REST API deployment with FastAPI
+- Interactive UI built with Streamlit
+- Containerized deployment using Docker Compose
+- CI/CD automation via GitHub Actions
 
-</div>
+**Business Impact:** Enables proactive customer retention strategies with real-time churn risk scoring.
 
-**Pipeline MLOps complet pour la prédiction du churn client**
-
-```
-Architecture du projet
-├── Hydra           → Configuration management
-├── DVC             → Data versioning
-├── MLflow          → Experiment tracking
-├── Optuna          → Hyperparameter tuning
-├── FastAPI         → Production API
-├── Streamlit       → Interactive UI
-└── Docker Compose  → Containerization
-```
-
-**Points forts :**
-- Pipeline reproductible end-to-end
-- CI/CD avec GitHub Actions
-- Suivi complet des expériences
-- Optimisation automatique des hyperparamètres
-- API de production prête à l'emploi
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-<div align="center">
+### Customer Segmentation & Market Basket Analysis
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_segmentation_project)
 
-### [Customer Segmentation Project](https://github.com/Souley225/Customer_segmentation_project)
+Advanced customer analytics combining RFM segmentation with association rule mining for marketing strategy optimization.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MLxtend](https://img.shields.io/badge/MLxtend-FF6F00?style=flat-square&logo=python&logoColor=white)
+**Analytical Components:**
 
-</div>
+**RFM Segmentation**
+- Recency, Frequency, Monetary analysis for customer profiling
+- Multi-dimensional scoring system for segment classification
+- Behavioral pattern identification across customer lifecycle
 
-**Segmentation RFM & Market Basket Analysis**
+**Market Basket Analysis**
+- Product association discovery using Apriori algorithm
+- Cross-sell opportunity identification through association rules
+- Upsell strategy development based on purchase patterns
 
-<table>
-<tr>
-<td width="50%">
+**Business Impact:** Data-driven marketing personalization resulting in targeted campaign strategies based on actual customer behavior.
 
-#### Segmentation RFM
-
-- Analyse **Récence-Fréquence-Montant**
-- Profils clients détaillés
-- Scoring et classification
-
-</td>
-<td width="50%">
-
-#### Market Basket Analysis
-
-- Analyse d'associations de produits
-- Opportunités de **cross-sell**
-- Recommandations **upsell**
-
-</td>
-</tr>
-</table>
-
-**Impact business :** Stratégies marketing ciblées basées sur les comportements d'achat réels
-
-
-## Formation & Certifications
-
-<table>
-<tr>
-<td width="50%">
-
-### Formation Académique
-
-- [**Master** Économétrie & Statistique Appliquée](https://www.master-esa.fr)  
-  Université d'Orléans (2022–2025)
-  
-- [**Licence** Économie](https://www.u-bourgogne.fr/)  
-  Université de Bourgogne (2019–2022)
-
-</td>
-<td width="50%">
-
-### Certifications
-
-- **SAS Certified Statistical Business Analyst**
-- **SAS Base Programming**
-- **Python for Data Science**
-- **Dataiku Core Designer**
-- **Dataiku ML Practitioner**
-
-</td>
-</tr>
-</table>
+**Tech Stack:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-## Langues
+## Education & Certifications
 
-<div align="center">
+### Education
+**Master's Degree in Econometrics & Applied Statistics**  
+University of Orléans | 2022 – 2025
 
-![Français](https://img.shields.io/badge/Français-Natif-success?style=for-the-badge&logo=france)
-![Anglais](https://img.shields.io/badge/Anglais-C1_(TOEIC_895)-blue?style=for-the-badge&logo=united-kingdom)
-![Espagnol](https://img.shields.io/badge/Espagnol-Notions-orange?style=for-the-badge&logo=spain)
+**Bachelor's Degree in Economics**  
+University of Burgundy | 2019 – 2022
 
-</div>
-
-<h2 align="left">Ma philosophie</h2>
-
-<p align="left">
-  <i>"Un bon projet data, c'est comme une recette réussie : il faut de bons ingrédients, une méthode claire, et surtout, le sens du détail."</i>
-</p>
-
----
-
-### Ma vision  
-Transformer les données en **décisions concrètes** et en **valeur mesurable**.  
-La donnée n'a de sens que si elle change quelque chose dans la réalité.
-
-### Mon approche  
-Allier **rigueur scientifique** et **pragmatisme d'ingénieur**.  
-J'aime autant explorer les modèles qu'automatiser le déploiement.  
-Du notebook à la prod, chaque étape doit être claire, testable et utile.
-
-### Mon objectif  
-Concevoir des **solutions ML fiables et impactantes**, qui aident les équipes à agir plus vite et plus juste.  
-Pas juste un modèle qui tourne, mais une solution qui vit.
-
----
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Souley225&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Souley225&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+### Professional Certifications
+- SAS Certified Statistical Business Analyst
+- SAS Base Programming Specialist
+- Python for Data Science
+- Dataiku Core Designer
+- Dataiku ML Practitioner
 
 ---
 
-## Restons en contact !
+## Languages
 
-<div align="center">
-
-Je suis toujours ouvert aux discussions autour de la **data science**, du **machine learning**, et des **bonnes pratiques MLOps** !  
-N'hésitez pas à me contacter pour échanger sur vos projets ou simplement discuter tech
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons--nous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
-[![Email](https://img.shields.io/badge/Email-Écrivez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
-
-</div>
+**French:** Native  
+**English:** Professional Working Proficiency (TOEIC 895 - C1)  
+**Spanish:** Basic Knowledge
 
 ---
 
-<div align="center">
+## Professional Approach
 
-### Merci de votre visite !
+Building reliable ML solutions requires combining statistical rigor with engineering discipline. My focus is on creating production-ready pipelines that deliver measurable business value, from initial exploration through automated deployment. Every component should be tested, reproducible, and maintainable.
 
-![Visitor Count](https://profile-counter.glitch.me/Souley225/count.svg)
+**Key Principles:**
+- Transform data into actionable business insights
+- Balance scientific methodology with engineering pragmatism
+- Design solutions that are reliable, scalable, and impactful
+- Ensure end-to-end pipeline clarity and testability
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+---
 
-</div>
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+---
+
+## Contact
+
+Open to discussing data science, machine learning, and MLOps best practices.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
+
+---
+
+![Profile Views](https://profile-counter.glitch.me/Souley225/count.svg)
