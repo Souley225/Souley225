@@ -24,7 +24,7 @@ vie des modèles de Machine Learning, du feature engineering au **déploiement**
 statistique et prédictive. Première expérience du déploiement via API, capable de passer du prototype à la production.
 Forte appétence pour l’intégration des pratiques **MLOps**.
 
-**Compétences clés :** Modélisation prédictive | Analyse client | Automatisation MLOps | Déploiement Cloud | Analyse statistique
+**Compétences clés :** Modélisation prédictive | Scoring | MLOps | Déploiement Cloud | Analyse statistique
 
 ---
 
