@@ -19,7 +19,10 @@
 
 ## Présentation
 
-Diplômé d'un Master en Économétrie et Statistique Appliquée avec une expérience concrète dans la construction de pipelines machine learning de bout en bout. Spécialisé dans la transformation de données brutes en solutions ML prêtes pour la production en utilisant les pratiques MLOps modernes. Forte base en rigueur statistique combinée aux meilleures pratiques d'ingénierie logicielle.
+Data Scientist titulaire d’un Master en  Économétrie et Statistique Appliquée. Maîtrise les étapes clés du cycle de
+vie des modèles de Machine Learning, du feature engineering au **déploiement**, avec une base solide en modélisation
+statistique et prédictive. Première expérience du déploiement via API, capable de passer du prototype à la production.
+Forte appétence pour l’intégration des pratiques **MLOps**.
 
 **Compétences clés :** Modélisation prédictive | Analyse client | Automatisation MLOps | Déploiement Cloud | Analyse statistique
 
