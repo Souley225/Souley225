@@ -220,4 +220,4 @@ Ouvert aux discussions autour de la data science, du machine learning et des bon
 
 <img src="https://komarev.com/ghpvc/?username=Souley225&color=blue&style=flat" alt="Profile views" />
 
-</div>>
+</div>
