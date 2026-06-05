@@ -6,37 +6,37 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Analyse+de+donn%C3%A9es;Segmentation+%26+Scoring;KPI+%26+Reporting;Mod%C3%A9lisation+pr%C3%A9dictive" alt="Typing SVG" />
 
-J'analyse les donnÃ©es pour comprendre les comportements, construire des indicateurs pertinents et accompagner la prise de dÃ©cision grÃ¢ce aux statistiques, Ã  l'analyse de donnÃ©es et Ã  la modÃ©lisation prÃ©dictive.
+J'analyse les données pour comprendre les comportements, construire des indicateurs pertinents et accompagner la prise de décision grâce aux statistiques, à l'analyse de données et à la modélisation prédictive.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=flat&logo=googlechrome&logoColor=white)](https://www.souleymanesall.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sallsouleymane66)
 
-`SQL` Â· `Python` Â· `BigQuery` Â· `Vertex AI` Â· `Power BI`
+`SQL` · `Python` · `BigQuery` · `Vertex AI` · `Power BI`
 
 </div>
 
 ---
 
-## Ã€ propos
+## À propos
 
-**Qui je suis** â€” Data Analyst orientÃ© business, Ã  l'aise entre les donnÃ©es et la dÃ©cision. Je traduis des problÃ©matiques mÃ©tier en analyses claires et actionnables.
+**Qui je suis** — Data Analyst orienté business, à l'aise entre les données et la décision. Je traduis des problématiques métier en analyses claires et actionnables.
 
-**Ce que je fais** â€” Je segmente des populations, construis des scores et des indicateurs de performance, analyse les comportements clients et formule des recommandations. Je dÃ©veloppe des modÃ¨les prÃ©dictifs lorsqu'ils apportent une valeur mÃ©tier concrÃ¨te.
+**Ce que je fais** — Je segmente des populations, construis des scores et des indicateurs de performance, analyse les comportements clients et formule des recommandations. Je développe des modèles prédictifs lorsqu'ils apportent une valeur métier concrète.
 
-**Comment je travaille** â€” Je pars toujours de la question mÃ©tier : quelle dÃ©cision faut-il Ã©clairer ? J'explore et fiabilise les donnÃ©es, j'analyse, puis je restitue des rÃ©sultats lisibles et des recommandations exploitables.
+**Comment je travaille** — Je pars toujours de la question métier : quelle décision faut-il éclairer ? J'explore et fiabilise les données, j'analyse, puis je restitue des résultats lisibles et des recommandations exploitables.
 
-**Outils principaux** â€” SQL, Python (Pandas), BigQuery, Vertex AI, Power BI.
+**Outils principaux** — SQL, Python (Pandas), BigQuery, Vertex AI, Power BI.
 
 ---
 
-## CompÃ©tences
+## Compétences
 
-**Analyse & dÃ©cision**
+**Analyse & décision**
 
-![Analyse de donnÃ©es](https://img.shields.io/badge/Analyse_de_donn%C3%A9es-0066CC?style=for-the-badge)
-![Statistiques appliquÃ©es](https://img.shields.io/badge/Statistiques_appliqu%C3%A9es-1E6FB8?style=for-the-badge)
+![Analyse de données](https://img.shields.io/badge/Analyse_de_donn%C3%A9es-0066CC?style=for-the-badge)
+![Statistiques appliquées](https://img.shields.io/badge/Statistiques_appliqu%C3%A9es-1E6FB8?style=for-the-badge)
 ![Segmentation](https://img.shields.io/badge/Segmentation-00A86B?style=for-the-badge)
 ![Scoring](https://img.shields.io/badge/Scoring-009E60?style=for-the-badge)
 ![KPI & Reporting](https://img.shields.io/badge/KPI_%26_Reporting-8B5CF6?style=for-the-badge)
@@ -48,9 +48,9 @@ J'analyse les donnÃ©es pour comprendre les comportements, construire des indicat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**ModÃ©lisation**
+**Modélisation**
 
-![ModÃ©lisation prÃ©dictive](https://img.shields.io/badge/Mod%C3%A9lisation_pr%C3%A9dictive-FF6B35?style=for-the-badge)
+![Modélisation prédictive](https://img.shields.io/badge/Mod%C3%A9lisation_pr%C3%A9dictive-FF6B35?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-555555?style=for-the-badge)
 
 ---
@@ -59,36 +59,36 @@ J'analyse les donnÃ©es pour comprendre les comportements, construire des indicat
 
 | Domaine | Ce que je couvre |
 | --- | --- |
-| **Analyse de donnÃ©es** | Exploration Â· nettoyage Â· analyse descriptive |
-| **Segmentation** | Clustering Â· RFM Â· typologies clients |
-| **Scoring** | Scoring client Â· scoring de risque Â· scoring comportemental |
-| **KPI & Reporting** | Tableaux de bord Â· indicateurs Â· suivi de performance |
-| **Analyse prÃ©dictive** | PrÃ©visions Â· classification Â· estimation |
-| **Cloud Data** | BigQuery Â· Vertex AI Â· Cloud Storage |
+| **Analyse de données** | Exploration · nettoyage · analyse descriptive |
+| **Segmentation** | Clustering · RFM · typologies clients |
+| **Scoring** | Scoring client · scoring de risque · scoring comportemental |
+| **KPI & Reporting** | Tableaux de bord · indicateurs · suivi de performance |
+| **Analyse prédictive** | Prévisions · classification · estimation |
+| **Cloud Data** | BigQuery · Vertex AI · Cloud Storage |
 
 ---
 
 ## Projets
 
 ### Customer Segmentation
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_segmentation_project)
+[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/customer-segmentation-rfm)
 
 Segmentation de la base clients (RFM & clustering) pour comprendre les comportements d'achat et cibler les actions marketing. Restitution des typologies et recommandations d'activation.
 
 ### Customer Churn
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Customer_Churn_Project)
+[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/customer-churn-analysis)
 
-Analyse du churn client : identification des facteurs explicatifs de l'attrition et scoring du risque pour prioriser les actions de rÃ©tention.
+Analyse du churn client : identification des facteurs explicatifs de l'attrition et scoring du risque pour prioriser les actions de rétention.
 
 ### Pricing Optimisation
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/Pricing_Optimisation_Project)
+[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/pricing-optimization-analysis)
 
-Analyse tarifaire et aide Ã  la dÃ©cision : Ã©tude de l'Ã©lasticitÃ©, simulation de scÃ©narios et recommandations de prix.
+Analyse tarifaire et aide à la décision : étude de l'élasticité, simulation de scénarios et recommandations de prix.
 
 ### Project Template
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/DS_project_Template)
+[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/data-analytics-project-template)
 
-Structure de projet analytique reproductible et prÃªte Ã  l'emploi : organisation, conventions et bonnes pratiques.
+Structure de projet analytique reproductible et prête à l'emploi : organisation, conventions et bonnes pratiques.
 
 ---
 
@@ -99,21 +99,21 @@ Structure de projet analytique reproductible et prÃªte Ã  l'emploi : organisatio
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-CapacitÃ© Ã  explorer, analyser et exploiter des donnÃ©es dans un environnement cloud moderne (Google Cloud Platform).
+Capacité à explorer, analyser et exploiter des données dans un environnement cloud moderne (Google Cloud Platform).
 
 ---
 
-## ExpÃ©rience
+## Expérience
 
 ### Consultant Data | Micropole (Groupe Talan)
-**Mars 2025 â€“ Septembre 2025 Â· Paris, France**
+**Mars 2025 – Septembre 2025 · Paris, France**
 
 - Segmentation RFM de la base clients pour le profilage et le ciblage marketing
-- Market Basket Analysis pour identifier les opportunitÃ©s de cross-sell et d'up-sell
-- Construction de tableaux de bord et d'indicateurs pour les Ã©quipes marketing
-- Exploitation et analyse des donnÃ©es sur Google Cloud Platform et BigQuery
+- Market Basket Analysis pour identifier les opportunités de cross-sell et d'up-sell
+- Construction de tableaux de bord et d'indicateurs pour les équipes marketing
+- Exploitation et analyse des données sur Google Cloud Platform et BigQuery
 
-`SQL` Â· `BigQuery` Â· `Python` Â· `Power BI` Â· `Google Cloud`
+`SQL` · `BigQuery` · `Python` · `Power BI` · `Google Cloud`
 
 ---
 
