@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Analyse+de+donn%C3%A9es;Segmentation+%26+Scoring;KPI+%26+Reporting;Mod%C3%A9lisation+pr%C3%A9dictive" alt="Typing SVG" />
 
-J'analyse les données pour comprendre les comportements, construire des indicateurs pertinents et accompagner la prise de décision grâce aux statistiques, à l'analyse de données et à la modélisation prédictive.
+J'analyse les données pour identifier des tendances, construire des indicateurs pertinents et accompagner la prise de décision grâce aux statistiques, à l'analyse de données et à la modélisation prédictive.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=flat&logo=googlechrome&logoColor=white)](https://www.souleymanesall.dev/)
@@ -21,7 +21,7 @@ J'analyse les données pour comprendre les comportements, construire des indicat
 
 ## À propos
 
-**Qui je suis** : Data Analyst orienté business, à l'aise entre les données et la décision. Je traduis des problématiques métier en analyses claires et actionnables.
+**Qui je suis** : Data Analyst avec une formation en statistiques appliquées et une expérience sur des sujets d'analyse, de segmentation, de scoring et de pilotage de la performance.
 
 **Ce que je fais** : Je segmente des populations, construis des scores et des indicateurs de performance, analyse les comportements clients et formule des recommandations. Je développe des modèles prédictifs lorsqu'ils apportent une valeur métier concrète.
 
@@ -40,7 +40,7 @@ J'analyse les données pour comprendre les comportements, construire des indicat
 ![Segmentation](https://img.shields.io/badge/Segmentation-00A86B?style=for-the-badge)
 ![Scoring](https://img.shields.io/badge/Scoring-009E60?style=for-the-badge)
 ![KPI & Reporting](https://img.shields.io/badge/KPI_%26_Reporting-8B5CF6?style=for-the-badge)
-![Analyse comportementale](https://img.shields.io/badge/Analyse_comportementale-7C3AED?style=for-the-badge)
+![Analyse de performance](https://img.shields.io/badge/Analyse_de_performance-7C3AED?style=for-the-badge)
 
 **Outils**
 
