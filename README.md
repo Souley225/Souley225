@@ -2,7 +2,7 @@
 
 # Souleymane SALL
 
-### Data Analyst | Segmentation, Scoring & Predictive Analytics
+### Data scientist | Segmentation, Scoring & Predictive Analytics
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Analyse+de+donn%C3%A9es;Segmentation+%26+Scoring;KPI+%26+Reporting;Mod%C3%A9lisation+pr%C3%A9dictive" alt="Typing SVG" />
 
