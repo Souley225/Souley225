@@ -21,7 +21,7 @@ J'analyse les données pour identifier des tendances, construire des indicateurs
 
 ## À propos
 
-**Qui je suis** : Data Analyst avec une formation en statistiques appliquées et une expérience sur des sujets d'analyse, de segmentation, de scoring et de pilotage de la performance.
+**Qui je suis** : Data scientist avec une formation en statistiques appliquées et une expérience sur des sujets d'analyse, de segmentation, de scoring et de pilotage de la performance.
 
 **Ce que je fais** : Je segmente des populations, construis des scores et des indicateurs de performance, analyse les comportements clients et formule des recommandations. Je développe des modèles prédictifs lorsqu'ils apportent une valeur métier concrète.
 
