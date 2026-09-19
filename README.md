@@ -41,6 +41,8 @@ Ma formation en économétrie et statistiques appliquées m’a donné une base 
 
 ## Projets sélectionnés
 
+<p align="center"><img src="./assets/projects/segmentation.svg" width="100%" alt="Segmentation client et recommandation"/></p>
+
 ### Segmentation client & recommandation
 À partir de données transactionnelles retail, j’ai construit une analyse combinant **segmentation RFM**, profils clients et règles d’association. L’objectif est de passer d’un historique d’achats à des groupes compréhensibles et à des recommandations produit exploitables.
 
@@ -50,6 +52,8 @@ Ma formation en économétrie et statistiques appliquées m’a donné une base 
 
 [Code](https://github.com/Souley225/customer-segmentation-rfm) · [Tester l’application](https://customer-segmentation-project-591h.onrender.com/)
 
+<p align="center"><img src="./assets/projects/churn.svg" width="100%" alt="Scoring du churn client"/></p>
+
 ### Scoring du churn client
 Un pipeline de machine learning construit autour d’une question opérationnelle : **quels clients présentent le plus grand risque de départ ?** Le projet couvre le feature engineering, la comparaison de modèles, le suivi des expériences et le déploiement. Le score est accessible via une application et une API.
 
@@ -57,12 +61,16 @@ Un pipeline de machine learning construit autour d’une question opérationnell
 
 [Code](https://github.com/Souley225/customer-churn-analysis) · [Tester l’application](https://customer-churn-project-zv7e.onrender.com/)
 
+<p align="center"><img src="./assets/projects/pricing.svg" width="100%" alt="Optimisation des prix"/></p>
+
 ### Optimisation des prix
 J’ai modélisé la demande pour étudier l’**élasticité-prix**, simuler différents scénarios et recommander un prix sous contraintes. Dans l’évaluation du projet, LightGBM atteint un RMSE de **77,59 contre 100,67** pour la baseline ElasticNet, soit environ **23 % de réduction**.
 
 `LightGBM` `SciPy` `MLflow` `DVC` `FastAPI` `Docker`
 
 [Code](https://github.com/Souley225/pricing-optimization-analysis) · [Tester l’application](https://pricingoptimisationproject-production.up.railway.app/)
+
+<p align="center"><img src="./assets/projects/phishing.svg" width="100%" alt="Détection de phishing par NLP"/></p>
 
 ### Détection de phishing par NLP
 Classification de liens à partir de signaux extraits des URLs et de représentations textuelles. Le travail porte autant sur la construction des variables que sur le compromis entre détection et fausses alertes.
