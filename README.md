@@ -4,31 +4,39 @@
 
 ## Stack technique
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,postgres,gcp,git,github,docker,fastapi,flask&perline=9" alt="Python, R, SQL, GCP, Git, GitHub, Docker, FastAPI et Flask"/>
+### Mes outils principaux
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres&theme=light" height="48" alt="Python et SQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="44" alt="Power BI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="48" alt="Google Cloud Platform"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="34" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="34" alt="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" alt="scikit-learn"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="34" alt="MLflow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="34" alt="BigQuery"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="34" alt="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="34" alt="Streamlit"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="34" alt="Plotly"/>
+**Python** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Power BI** &nbsp;&nbsp;&nbsp;&nbsp; **GCP**
+
+### Et aussi
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=r&theme=light" height="42" alt="R"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sas/1F72B8" height="40" alt="SAS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=light" height="42" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker,fastapi&theme=light" height="42" alt="Docker et FastAPI"/>
 </p>
 
-<p align="center">
-  <sub>Python · SQL · R · SAS · Pandas · NumPy · scikit-learn · XGBoost · MLflow · DVC · GCP · BigQuery · Vertex AI · Power BI · Dataiku · FastAPI · Flask · Streamlit · Plotly · Docker · Git</sub>
-</p>
+**R** · **SAS** · **Excel** · **GitHub** · **BigQuery** · **scikit-learn** · **Streamlit** · **Docker** · **FastAPI**
 
 ## À propos
 
