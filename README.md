@@ -6,37 +6,30 @@
 
 ### Mes outils principaux
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres&theme=light" height="48" alt="Python et SQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="44" alt="Power BI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="48" alt="Google Cloud Platform"/>
-</p>
-
-**Python** &nbsp;&nbsp;&nbsp;&nbsp; **SQL** &nbsp;&nbsp;&nbsp;&nbsp; **Power BI** &nbsp;&nbsp;&nbsp;&nbsp; **GCP**
+<table>
+<tr>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42"/><br/><b>Python</b></td>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42"/><br/><b>SQL</b></td>
+<td align="center" width="120"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" height="42"/><br/><b>Power BI</b></td>
+<td align="center" width="120"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="42" height="42"/><br/><b>GCP</b></td>
+</tr>
+</table>
 
 ### Et aussi
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=r&theme=light" height="42" alt="R"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sas/1F72B8" height="40" alt="SAS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" alt="Excel"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=light" height="42" alt="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="scikit-learn"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" alt="Streamlit"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,fastapi&theme=light" height="42" alt="Docker et FastAPI"/>
-</p>
-
-**R** · **SAS** · **Excel** · **GitHub** · **BigQuery** · **scikit-learn** · **Streamlit** · **Docker** · **FastAPI**
+<table>
+<tr>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="38" height="38"/><br/><b>R</b></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/sas/1F72B8" width="38" height="38"/><br/><b>SAS</b></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="38" height="38"/><br/><b>Excel</b></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="38" height="38"/><br/><b>GitHub</b></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="38" height="38"/><br/><b>BigQuery</b></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38"/><br/><b>scikit-learn</b></td>
+<td align="center" width="100"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="38" height="38"/><br/><b>Streamlit</b></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38"/><br/><b>Docker</b></td>
+<td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="38" height="38"/><br/><b>FastAPI</b></td>
+</tr>
+</table>
 
 ## À propos
 
@@ -80,12 +73,32 @@ Classification de liens à partir de signaux extraits des URLs et de représenta
 
 ## Expérience
 
-### Data Scientist, Micropole · Groupe Talan
-**Paris · mars 2025 à septembre 2025**
+### Data Scientist – Stage | Micropole · Groupe Talan
+**Mars 2025 – Sept. 2025 · Paris, France**
 
-Sur un projet e-commerce, j’ai travaillé sur une chaîne allant des données Salesforce jusqu’à leur exploitation par les équipes métier : extraction et stockage sur GCP, préparation des données, segmentation des comportements d’achat et restitution.
+- Pilotage de bout en bout d’un projet de segmentation client pour un acteur du e-commerce, afin d’améliorer la connaissance client, le ciblage marketing et les actions de fidélisation.
+- Conception d’un pipeline de données intégrant l’extraction depuis Salesforce, le stockage sur Google Cloud Platform (GCS), ainsi que le nettoyage, la préparation et la structuration des données.
+- Développement d’un modèle de segmentation permettant d’identifier **10 profils clients distincts** à partir des comportements d’achat, puis caractérisation des segments pour identifier leurs principaux leviers d’activation marketing.
+- Réalisation d’une analyse de paniers (**Market Basket Analysis**) afin d’identifier les associations de produits et d’alimenter des recommandations personnalisées selon les segments de clientèle.
+- Création de tableaux de bord décisionnels permettant aux équipes métier d’exploiter les segments et de piloter les campagnes marketing.
 
-Le modèle a permis d’identifier **10 profils clients**. J’ai ensuite caractérisé ces groupes, réalisé une Market Basket Analysis pour étudier les associations de produits et construit des tableaux de bord destinés au pilotage des campagnes marketing.
+## Projets
+
+### Modèle de scoring décisionnel – Mobilize Financial Services
+**Python · SAS · Excel**
+
+- Modélisation du risque de défaut à partir de données de demandes de prêt.
+- Mise en place d’une grille de score permettant d’évaluer chaque demande de crédit.
+- Construction d’indicateurs destinés à accompagner la décision d’octroi de crédit.
+- Analyse et restitution des résultats afin de rendre les conclusions du modèle compréhensibles par les équipes métier.
+
+### Analyse du marché immobilier français
+**Python · Streamlit · Excel**
+
+- Collecte et centralisation de données publiques issues de data.gouv.fr, suivies du nettoyage, de la structuration et de la préparation des données.
+- Construction d’indicateurs sur les prix, volumes et tendances du marché immobilier.
+- Création d’un dashboard interactif Streamlit permettant d’explorer les données par commune et département.
+- Analyse des dynamiques territoriales afin d’identifier les écarts entre zones et restitution des résultats pour faciliter la prise de décision.
 
 ## Ma façon d’aborder un projet
 
