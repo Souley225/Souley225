@@ -82,24 +82,6 @@ Classification de liens à partir de signaux extraits des URLs et de représenta
 - Réalisation d’une analyse de paniers (**Market Basket Analysis**) afin d’identifier les associations de produits et d’alimenter des recommandations personnalisées selon les segments de clientèle.
 - Création de tableaux de bord décisionnels permettant aux équipes métier d’exploiter les segments et de piloter les campagnes marketing.
 
-## Projets
-
-### Modèle de scoring décisionnel – Mobilize Financial Services
-**Python · SAS · Excel**
-
-- Modélisation du risque de défaut à partir de données de demandes de prêt.
-- Mise en place d’une grille de score permettant d’évaluer chaque demande de crédit.
-- Construction d’indicateurs destinés à accompagner la décision d’octroi de crédit.
-- Analyse et restitution des résultats afin de rendre les conclusions du modèle compréhensibles par les équipes métier.
-
-### Analyse du marché immobilier français
-**Python · Streamlit · Excel**
-
-- Collecte et centralisation de données publiques issues de data.gouv.fr, suivies du nettoyage, de la structuration et de la préparation des données.
-- Construction d’indicateurs sur les prix, volumes et tendances du marché immobilier.
-- Création d’un dashboard interactif Streamlit permettant d’explorer les données par commune et département.
-- Analyse des dynamiques territoriales afin d’identifier les écarts entre zones et restitution des résultats pour faciliter la prise de décision.
-
 ## Ma façon d’aborder un projet
 
 **Quelle décision cherche-t-on à améliorer ?** Elle détermine ce qu’il faut mesurer et évite de transformer le projet en concours de métriques.
