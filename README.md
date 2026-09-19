@@ -2,6 +2,34 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/souleymanes-sall">LinkedIn</a> · <a href="https://www.souleymanesall.dev/">Portfolio</a> · <a href="mailto:sallsouleymane2207@gmail.com">Email</a> · <a href="https://medium.com/@sallsouleymane66">Medium</a></p>
 
+## Stack technique
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,gcp,git,github,docker,fastapi,flask&perline=9" alt="Python, R, SQL, GCP, Git, GitHub, Docker, FastAPI et Flask"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="34" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="34" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" alt="scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="34" alt="MLflow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="34" alt="BigQuery"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="34" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="34" alt="Streamlit"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" height="34" alt="Plotly"/>
+</p>
+
+<p align="center">
+  <sub>Python · SQL · R · SAS · Pandas · NumPy · scikit-learn · XGBoost · MLflow · DVC · GCP · BigQuery · Vertex AI · Power BI · Dataiku · FastAPI · Flask · Streamlit · Plotly · Docker · Git</sub>
+</p>
+
 ## À propos
 
 Je travaille sur des problèmes où un modèle doit finir par **éclairer une décision**, pas seulement produire une métrique.
@@ -50,14 +78,6 @@ Classification de liens à partir de signaux extraits des URLs et de représenta
 Sur un projet e-commerce, j’ai travaillé sur une chaîne allant des données Salesforce jusqu’à leur exploitation par les équipes métier : extraction et stockage sur GCP, préparation des données, segmentation des comportements d’achat et restitution.
 
 Le modèle a permis d’identifier **10 profils clients**. J’ai ensuite caractérisé ces groupes, réalisé une Market Basket Analysis pour étudier les associations de produits et construit des tableaux de bord destinés au pilotage des campagnes marketing.
-
-## Environnement technique
-
-<p align="center"><img src="https://skillicons.dev/icons?i=python,r,postgres,gcp,git,github,docker,fastapi,flask&perline=9" alt="Technologies principales"/></p>
-
-**Data & ML :** Pandas · NumPy · scikit-learn · XGBoost · MLflow · DVC  
-**Cloud & BI :** GCP · BigQuery · Vertex AI · Power BI · Dataiku  
-**Applications :** FastAPI · Flask · Streamlit · Plotly
 
 ## Ma façon d’aborder un projet
 
