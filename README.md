@@ -1,125 +1,85 @@
-<div align="center">
+<p align="center"><img src="./assets/hero.svg" width="100%" alt="Souleymane Sall — Data Scientist"/></p>
 
-# Souleymane SALL
-
-### Data scientist | Segmentation, Scoring & Predictive Analytics
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Analyse+de+donn%C3%A9es;Segmentation+%26+Scoring;KPI+%26+Reporting;Mod%C3%A9lisation+pr%C3%A9dictive" alt="Typing SVG" />
-
-J'analyse les données pour identifier des tendances, construire des indicateurs pertinents et accompagner la prise de décision grâce aux statistiques, à l'analyse de données et à la modélisation prédictive.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souleymanes-sall)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E9EF7?style=flat&logo=googlechrome&logoColor=white)](https://www.souleymanesall.dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sallsouleymane2207@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sallsouleymane66)
-
-`SQL` · `Python` · `BigQuery` · `Vertex AI` · `Power BI`
-
-</div>
-
----
+<p align="center"><a href="https://www.linkedin.com/in/souleymanes-sall">LinkedIn</a> · <a href="https://www.souleymanesall.dev/">Portfolio</a> · <a href="mailto:sallsouleymane2207@gmail.com">Email</a> · <a href="https://medium.com/@sallsouleymane66">Medium</a></p>
 
 ## À propos
 
-**Qui je suis** : Data scientist avec une formation en statistiques appliquées et une expérience sur des sujets d'analyse, de segmentation, de scoring et de pilotage de la performance.
+Je travaille sur des problèmes où un modèle doit finir par **éclairer une décision**, pas seulement produire une métrique.
 
-**Ce que je fais** : Je segmente des populations, construis des scores et des indicateurs de performance, analyse les comportements clients et formule des recommandations. Je développe des modèles prédictifs lorsqu'ils apportent une valeur métier concrète.
+Ma formation en économétrie et statistiques appliquées m’a donné une base solide en modélisation. Mes projets m’ont ensuite amené à travailler sur toute la chaîne : comprendre le besoin, préparer les données, construire et évaluer le modèle, puis rendre le résultat accessible via une API, un dashboard ou une application.
 
-**Comment je travaille** : Je pars toujours de la question métier : quelle décision faut-il éclairer ? J'explore et fiabilise les données, j'analyse, puis je restitue des résultats lisibles et des recommandations exploitables.
+<table><tr><td width="33%" align="center"><b>Analyser</b><br/><sub>Comprendre les comportements, les risques et les mécanismes présents dans les données.</sub></td><td width="33%" align="center"><b>Modéliser</b><br/><sub>Choisir une méthode adaptée à la décision, puis mesurer clairement ses limites.</sub></td><td width="33%" align="center"><b>Rendre utilisable</b><br/><sub>Transformer le résultat en score, API, dashboard ou application exploitable.</sub></td></tr></table>
 
-**Outils principaux** : SQL, Python (Pandas), BigQuery, Vertex AI, Power BI.
+## Projets sélectionnés
 
----
+### Segmentation client & recommandation
+À partir de données transactionnelles retail, j’ai construit une analyse combinant **segmentation RFM**, profils clients et règles d’association. L’objectif est de passer d’un historique d’achats à des groupes compréhensibles et à des recommandations produit exploitables.
 
-## Compétences
+**6 segments clients · Market Basket Analysis · Application déployée**
 
-**Analyse & décision**
+`Python` `Pandas` `scikit-learn` `MLxtend` `Plotly` `Streamlit`
 
-![Analyse de données](https://img.shields.io/badge/Analyse_de_donn%C3%A9es-0066CC?style=for-the-badge)
-![Statistiques appliquées](https://img.shields.io/badge/Statistiques_appliqu%C3%A9es-1E6FB8?style=for-the-badge)
-![Segmentation](https://img.shields.io/badge/Segmentation-00A86B?style=for-the-badge)
-![Scoring](https://img.shields.io/badge/Scoring-009E60?style=for-the-badge)
-![KPI & Reporting](https://img.shields.io/badge/KPI_%26_Reporting-8B5CF6?style=for-the-badge)
-![Analyse de performance](https://img.shields.io/badge/Analyse_de_performance-7C3AED?style=for-the-badge)
+[Code](https://github.com/Souley225/customer-segmentation-rfm) · [Tester l’application](https://customer-segmentation-project-591h.onrender.com/)
 
-**Outils**
+### Scoring du churn client
+Un pipeline de machine learning construit autour d’une question opérationnelle : **quels clients présentent le plus grand risque de départ ?** Le projet couvre le feature engineering, la comparaison de modèles, le suivi des expériences et le déploiement. Le score est accessible via une application et une API.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+`MLflow` `DVC` `Optuna` `FastAPI` `Docker` `Streamlit`
 
-**Modélisation**
+[Code](https://github.com/Souley225/customer-churn-analysis) · [Tester l’application](https://customer-churn-project-zv7e.onrender.com/)
 
-![Modélisation prédictive](https://img.shields.io/badge/Mod%C3%A9lisation_pr%C3%A9dictive-FF6B35?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-555555?style=for-the-badge)
+### Optimisation des prix
+J’ai modélisé la demande pour étudier l’**élasticité-prix**, simuler différents scénarios et recommander un prix sous contraintes. Dans l’évaluation du projet, LightGBM atteint un RMSE de **77,59 contre 100,67** pour la baseline ElasticNet, soit environ **23 % de réduction**.
 
----
+`LightGBM` `SciPy` `MLflow` `DVC` `FastAPI` `Docker`
 
-## Domaines d'expertise
+[Code](https://github.com/Souley225/pricing-optimization-analysis) · [Tester l’application](https://pricingoptimisationproject-production.up.railway.app/)
 
-| Domaine | Ce que je couvre |
-| --- | --- |
-| **Analyse de données** | Exploration · nettoyage · analyse descriptive |
-| **Segmentation** | Clustering · RFM · typologies clients |
-| **Scoring** | Scoring client · scoring de risque · scoring comportemental |
-| **KPI & Reporting** | Tableaux de bord · indicateurs · suivi de performance |
-| **Analyse prédictive** | Prévisions · classification · estimation |
-| **Cloud Data** | BigQuery · Vertex AI · Cloud Storage |
+### Détection de phishing par NLP
+Classification de liens à partir de signaux extraits des URLs et de représentations textuelles. Le travail porte autant sur la construction des variables que sur le compromis entre détection et fausses alertes.
 
----
+`Python` `scikit-learn` `XGBoost` `TF-IDF` `spaCy`
 
-## Projets
-
-### Customer Segmentation
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/customer-segmentation-rfm)
-
-Segmentation de la base clients (RFM & clustering) pour comprendre les comportements d'achat et cibler les actions marketing. Restitution des typologies et recommandations d'activation.
-
-### Customer Churn
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/customer-churn-analysis)
-
-Analyse du churn client : identification des facteurs explicatifs de l'attrition et scoring du risque pour prioriser les actions de rétention.
-
-### Pricing Optimisation
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/pricing-optimization-analysis)
-
-Analyse tarifaire et aide à la décision : étude de l'élasticité, simulation de scénarios et recommandations de prix.
-
-### Project Template
-[![Repo](https://img.shields.io/badge/Voir_le_projet-181717?style=flat&logo=github&logoColor=white)](https://github.com/Souley225/data-analytics-project-template)
-
-Structure de projet analytique reproductible et prête à l'emploi : organisation, conventions et bonnes pratiques.
-
----
-
-## Cloud & Data Platforms
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-Capacité à explorer, analyser et exploiter des données dans un environnement cloud moderne (Google Cloud Platform).
-
----
+[Code](https://github.com/Souley225/NLP_Phishing_detection_Project)
 
 ## Expérience
 
-### Consultant Data | Micropole (Groupe Talan)
-**Mars 2025 à Septembre 2025 · Paris, France**
+### Data Scientist, Micropole · Groupe Talan
+**Paris · mars 2025 à septembre 2025**
 
-- Segmentation RFM de la base clients pour le profilage et le ciblage marketing
-- Market Basket Analysis pour identifier les opportunités de cross-sell et d'up-sell
-- Construction de tableaux de bord et d'indicateurs pour les équipes marketing
-- Exploitation et analyse des données sur Google Cloud Platform et BigQuery
+Sur un projet e-commerce, j’ai travaillé sur une chaîne allant des données Salesforce jusqu’à leur exploitation par les équipes métier : extraction et stockage sur GCP, préparation des données, segmentation des comportements d’achat et restitution.
 
-`SQL` · `BigQuery` · `Python` · `Power BI` · `Google Cloud`
+Le modèle a permis d’identifier **10 profils clients**. J’ai ensuite caractérisé ces groupes, réalisé une Market Basket Analysis pour étudier les associations de produits et construit des tableaux de bord destinés au pilotage des campagnes marketing.
 
----
+## Environnement technique
 
-<div align="center">
+<p align="center"><img src="https://skillicons.dev/icons?i=python,r,postgres,gcp,git,github,docker,fastapi,flask&perline=9" alt="Technologies principales"/></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&hide_border=true&theme=default&hide=contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&hide_border=true&langs_count=6)
+**Data & ML :** Pandas · NumPy · scikit-learn · XGBoost · MLflow · DVC  
+**Cloud & BI :** GCP · BigQuery · Vertex AI · Power BI · Dataiku  
+**Applications :** FastAPI · Flask · Streamlit · Plotly
 
-</div>
+## Ma façon d’aborder un projet
+
+**Quelle décision cherche-t-on à améliorer ?** Elle détermine ce qu’il faut mesurer et évite de transformer le projet en concours de métriques.
+
+**Qu’est-ce que les données permettent réellement d’affirmer ?** Un résultat utile doit rester défendable, y compris quand les données sont imparfaites.
+
+**Comment le résultat sera-t-il utilisé ?** Un modèle qui reste dans un notebook répond rarement à toute la question. Selon le besoin, la dernière étape peut être un score, une API, un dashboard ou une application.
+
+## Formation
+
+**Master Économétrie & Statistique Appliquée**, Université d’Orléans, 2023–2025  
+Modélisation statistique · Scoring · Machine Learning supervisé et non supervisé · Séries temporelles · Économétrie · SQL · SAS
+
+**Licence Économie Quantitative**, Université de Bourgogne-Europe, 2019–2023
+
+## Certifications
+
+SAS Certified Statistical Business Analyst · SAS Base Programming · Python for Data Science · Dataiku Core Designer & ML Practitioner · SQL & Power BI
+
+## Activité GitHub
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Souley225&show_icons=true&hide_border=true&hide_title=true" height="150"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souley225&layout=compact&hide_border=true&langs_count=6" height="150"/></p>
+
+<p align="center"><sub>Ce profil documente des projets que je peux expliquer, défendre et améliorer, pas seulement des notebooks qui s’exécutent.</sub></p>
